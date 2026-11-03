@@ -1,0 +1,27 @@
+
+========================================
+       WEB SCRAPING ANALYTICAL REPORT
+========================================
+
+Total Books Scraped: 1000
+
+Average Book Price: £35.07
+
+Highest Book Price: £59.99
+
+Lowest Book Price: £10.00
+
+Available Books: 1000
+
+Rating Distribution:
+
+Rating
+One      226
+Three    203
+Five     196
+Two      196
+Four     179
+
+========================================
+          SCRAPING COMPLETED
+========================================
